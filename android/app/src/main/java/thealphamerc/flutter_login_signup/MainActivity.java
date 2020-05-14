@@ -1,4 +1,4 @@
-package thealphamerc.flutter_login_signup;
+package com.maxfranky.fmflogin;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
